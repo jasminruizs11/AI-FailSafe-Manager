@@ -16,8 +16,7 @@ Como especialista en estructuración de datos y resolución de problemas operati
 ## 📸 Demostración de Ejecución
 
 A continuación se observa el sistema gestionando una falla de conexión y activando el protocolo de seguridad:
-
-![Captura de pantalla del sistema en ejecución](assets/terminal_demo.png)
+![Demostración](terminal_demo.png)
 
 ## ⚙️ Stack Tecnológico
 - **Python 3.10+**
