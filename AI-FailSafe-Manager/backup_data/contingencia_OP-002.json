@@ -1,0 +1,9 @@
+{
+    "error_tecnico": "RetryError[<Future at 0x1982913e8a0 state=finished raised ClientError>]",
+    "datos": {
+        "id_operacion": "OP-002",
+        "contenido": "Actualización de CUIT y cuenta bancaria del proveedor.",
+        "es_sensible": true,
+        "metadata": {}
+    }
+}
